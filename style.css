@@ -1,0 +1,34 @@
+.container{
+    border: 1px solid black;
+}
+
+.row ul li a{
+    text-decoration: none;
+    margin-left:20px;
+}
+
+.col-md-3 a{
+   font-size: 1.2em;
+   color:white;
+   text-transform: capitalize;
+}
+
+#header{
+   background-color: aquamarine;
+}
+
+#nav{
+    padding-top: 10px;
+    background-color: beige;
+}
+
+#sidebar{
+    padding-top: 20PX;
+    background-color:cornflowerblue;
+    text-align: center;
+    text-justify:newspaper;
+}
+
+#footer{
+    background-color: burlywood;
+}
